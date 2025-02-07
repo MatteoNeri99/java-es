@@ -1,4 +1,4 @@
-package esercizi;
+package esercizi.IF;
 
 public class esercizio5 {
 
