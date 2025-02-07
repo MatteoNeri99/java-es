@@ -4,21 +4,19 @@ public class esercizio5 {
 
     public static void main(String[] args) {
 
-        //Scrivi un programma Java che verifica se una stringa è vuota o null.
+        //Scrivi un programma Java che verifica se un numero è compreso tra due valori
 
-        String s = "ciao";
+        int numero = 1;
 
-        if (s == null){
+        if (numero > 0 && numero < 10){
 
-            System.out.println("la stringa ha valore null");
-
-        } else if (s.isEmpty()) {
-
-            System.out.println("la stringa è vuota");
+            System.out.println(numero + " è compreso tra 0 e 10");
 
         }else{
-            System.out.println("stringa: " + s );
+            System.out.println("il numero non è compreso tra 0 e 10");
         }
+
+
 
 
     }
