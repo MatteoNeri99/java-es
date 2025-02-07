@@ -1,4 +1,4 @@
-package esercizi.tre;
+package esercizi;
 
 public class esercizio3 {
 
