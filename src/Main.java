@@ -15,8 +15,5 @@ public class Main {
             System.out.println("il numero è dispari");
         }
 
-
-
-
     }
 }
